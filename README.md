@@ -8,7 +8,7 @@ Javascript &amp; Node.js Education Repository
 
 # 1일차 수업내용
 * Node.js의 특징
-<code>
+<pre><code>
 특정 변수에 대해서 정의 유동적
 - A라는 변수에 대해서 정수만 넣는다 라고 규약을 짓는게 아니라
 int도 넣을 수 있고, char도 넣을 수 있는 식으로 사용됨
@@ -17,7 +17,7 @@ int도 넣을 수 있고, char도 넣을 수 있는 식으로 사용됨
 크롬 브라우저를 공개
 그 이후 라이언 달이라는 사람이 해당 소스를 가지고 컴파일해서
 node.js 창시
-</code>
+</code></pre>
 
 * 다운로드 주소
 1. 강사 PC	- 59.29.224.27
