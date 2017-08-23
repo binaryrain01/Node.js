@@ -24,3 +24,4 @@ Javascript &amp; Node.js Education Repository
 * 인공지능
 1. 교사학습 - 질문을 주고 답을 줌
 2. 비교사학습 - 질문만 줌(딥러닝) -> 러닝커브에 따른 학습
+아니면메모장에다쓰고복붙하는게나을거야
